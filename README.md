@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h2 align="center">My name is Samuel Njenga.</h2>
-<p align="center">I'm a Passionate self-taught Full Stack Software Developer 🚀 from Kenya.</p>
+<p align="center">I'm a Passionate self-taught Full Stack Software Developer 🚀 from Nairobi, Kenya.</p>
 
 **Languages and Tools:**  
 
@@ -25,7 +25,7 @@
 - 💬 Ask me about anything, I am happy to help;
 
 ### 📫 Where to find me
-- [Website](https://samuelnjenga-portfolio.herokuapp.com/index.html) 🔗
+- [My Website](https://samuelnjenga-portfolio.herokuapp.com/index.html) 🔗
 
 
 ### My Github Stats
