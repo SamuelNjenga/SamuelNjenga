@@ -31,4 +31,4 @@
 ### My Github Stats
 ![Samuel Njenga's Github Stats](https://github-readme-stats.vercel.app/api?username=SamuelNjenga&show_icons=true&theme=radical)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default)
+
