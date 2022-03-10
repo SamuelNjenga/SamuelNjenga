@@ -22,7 +22,7 @@
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;  🚀 *coming soon*
 - 🌱 I’m currently learning some new and amazing technologies;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am ready and willing to help;
 
 ### 📫 Where to find me
 - [My Website](https://samuelnjenga-portfolio.herokuapp.com/index.html) 🔗
