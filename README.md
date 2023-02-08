@@ -22,7 +22,7 @@
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;  🚀 *coming soon*
 - 🌱 I’m currently learning some new and amazing technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything, I am ready and willing to help;
+- 💬 Ask me about anything, I am ready and willing to help <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ### 📫 Where to find me
 - [My Website](https://samuelnjenga-portfolio.herokuapp.com/index.html) 🔗
