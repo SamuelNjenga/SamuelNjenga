@@ -21,7 +21,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;  🚀 *coming soon*
-- 🌱 I’m currently learning some new and amazing technologies;
+- 🌱 I’m currently learning some new and amazing technologies; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything, I am ready and willing to help;
 
 ### 📫 Where to find me
