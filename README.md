@@ -31,4 +31,6 @@
 ### My Github Stats
 ![Samuel Njenga's Github Stats](https://github-readme-stats.vercel.app/api?username=SamuelNjenga&show_icons=true&theme=radical)
 
+<br />
+<iframe src="https://giphy.com/embed/mtzCPgXqC9GEg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snl-bugs-journalism-investigative-reporting-mtzCPgXqC9GEg">via GIPHY</a></p>
 
