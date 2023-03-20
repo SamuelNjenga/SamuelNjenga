@@ -25,7 +25,7 @@
 - 💬 Ask me about anything, I am ready and willing to help <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ### 📫 Where to find me
-- [My Website](https://samuelnjenga-portfolio.herokuapp.com/index.html) 🔗
+- [My Website](https://samuelnjenga.netlify.app/) 🔗
 
 
 ### My Github Stats
