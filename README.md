@@ -30,4 +30,5 @@
 
 ### My Github Stats
 ![Samuel Njenga's Github Stats](https://github-readme-stats.vercel.app/api?username=SamuelNjenga&show_icons=true&theme=radical)
+<a href="http://www.github.com/SamuelNjenga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNjenga&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
