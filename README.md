@@ -18,7 +18,9 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="270" />
 
-![animation_lm7egnx2_small](https://github.com/SamuelNjenga/SamuelNjenga/assets/35728717/1f1f592b-5177-4b4b-9169-b07e996381db)
+<img align="right" alt="GIF" src="![animation_lm7egnx2_small](https://github.com/SamuelNjenga/SamuelNjenga/assets/35728717/1f1f592b-5177-4b4b-9169-b07e996381db)?raw=true" width="500" height="270" />
+
+
 
 <br />
 **Talking about Personal Stuffs:**
