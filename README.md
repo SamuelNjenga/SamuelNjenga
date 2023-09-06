@@ -22,7 +22,7 @@
 
 <br />
 <br />
-**Talking about personal stuff:**
+### Talking about personal stuff ###
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;  🚀 *coming soon*
 - 🌱 I’m currently learning some new and amazing technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
