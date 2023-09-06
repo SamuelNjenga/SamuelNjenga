@@ -16,7 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="270" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="170" />
 
 ![animation_lm7egnx2_small](https://github.com/SamuelNjenga/SamuelNjenga/assets/35728717/1f1f592b-5177-4b4b-9169-b07e996381db)
 
